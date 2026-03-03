@@ -148,15 +148,15 @@ Real-world project implementation
 
 ## 📌 How to Run This Project
 
-Clone the repository:
+**Clone the repository:**
 ```
 git clone https://github.com/LalitPatil05/Python_Exploratory_Data_Analysis.git
 ```
 
-## 📝Open Jupyter Notebook:
+**📝Open Jupyter Notebook:**
 
 ````
-`jupyter notebook`
+jupyter notebook
 
 DataScienceProject.ipynb
 ```
