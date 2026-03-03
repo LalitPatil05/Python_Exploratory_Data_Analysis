@@ -155,7 +155,6 @@ git clone https://github.com/LalitPatil05/Python_Exploratory_Data_Analysis.git
 
 **📝Open Jupyter Notebook:**
 
-````
 jupyter notebook
 
 DataScienceProject.ipynb
